@@ -10,3 +10,6 @@ How to reach me: <a href="https://www.linkedin.com/in/kumuda-d-k-2b251b191/"><im
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kumudadk&show_icons=true&theme=dracula" alt="kumudadk"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumudadk&layout=compact" alt="kumudadk" /></br>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=kumudadk) &nbsp; &nbsp;&nbsp;![](https://img.shields.io/github/followers/kumudadk.svg?style=social&label=Follow)
